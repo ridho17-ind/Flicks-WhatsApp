@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm install -g forever && forever haruka.js
+worker : npm i ffmpeg && npm i @adiwajshing/baileys@3.5.3 && npm install -g forever && forever haruka.js
