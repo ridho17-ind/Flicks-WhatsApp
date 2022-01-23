@@ -2,10 +2,10 @@
 <img src="https://telegra.ph/file/4c06c6456da3625108f6b.jpg" alt="HARUKA BOT" width="200"/>
 
 <p align="center">
-    <a href="https://zeeoneofc.github.io">
+    <a href="https://ridho17-ind.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+For+Using+Flicks+Bot+🚀"
-            alt="ZeeoneOfc"
+            alt="Skijo"
         />
     </a>
 </p>
@@ -23,7 +23,7 @@
 
 **Click Deploy**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Haruka)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Flicks-WhatsApp)
 
 ## Heroku Buildpack
 ```bash
@@ -36,7 +36,7 @@
 ```bash
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
-> git clone https://github.com/zeeoneofc/Haruka.git
+> git clone https://github.com/ridho17-ind/Flicks-WhatsApp.git
 > cd Haruka
 > npm install
 > node haruka.js
@@ -47,10 +47,10 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
+	"ownername":"Skijo",
 	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
+	"botname":"Flicks-Bot",
+	"thumbnail":"./settings/Flicks.jpg",
 	"session_name":"./session.json"
 }
 ```
@@ -63,5 +63,5 @@ You can edit owner and other in `'./settings/config.json'`
 - Haruka Bot
 - My God & My Parents
 - Penyedia Module
-- Teman" Yang support saya
-- Kalian semua 🛐
+- Teman"
+- Kalian Semua
