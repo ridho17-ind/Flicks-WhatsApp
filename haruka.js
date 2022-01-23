@@ -6,12 +6,12 @@ let { spawn } = require('child_process')
 let path = require('path')
 let fs = require('fs')
 const CFonts  = require('cfonts')
-CFonts.say('Haruka Bot', {
+CFonts.say('Flicks Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Bot WhatsApp Created By ZeeoneOfc`, {
+CFonts.say(`Bot WhatsApp`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
