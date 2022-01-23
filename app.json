@@ -1,7 +1,7 @@
 {
-  "name": "Haruka-Bot",
-  "description": "WhatsApp Bot Using WhatsApp Api Library Created By ZeeoneOfc",
-  "repository": "https://github.com/zeeoneofc/Haruka",
-  "logo": "https://github.com/zeeoneofc/Haruka/blob/master/settings/haruka.jpg",
-  "keywords": ["Haruka", "Bot WhatsApp","Heroku bot"]
+  "name": "Flicks-Bot",
+  "description": "WhatsApp Bot Using WhatsApp Api Library",
+  "repository": "https://github.com/ridho17-ind/Flicks-WhatsApp",
+  "logo": "https://github.com/ridho17-ind/Flicks-WhatsApp/blob/master/settings/haruka.jpg",
+  "keywords": ["Flicks-WhatsApp", "Bot WhatsApp","Heroku bot"]
 }
