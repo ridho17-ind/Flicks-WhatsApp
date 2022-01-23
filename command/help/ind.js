@@ -8,10 +8,10 @@ exports.limitend = (pushname) => {
 	return`Maaf ${pushname} limit hari ini telah habis\nlimit di reset setiap jam 24:00`
 }
 exports.noregis = (pushname) =>{
-	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
+	return` 😎 Halo ${pushname} Lu Belum Daftar Tolol. Ketik .daftar Dulu Dong`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Lu Udah Daftar Anj 😒`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -22,31 +22,31 @@ exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 • Serial : ${serialUser}
 • Total User : ${totalUser.length}
 
-Thanks yak udah daftar, sekarang ketik .menu untuk melihat 
-fitur bot.
+Thanks Ye Tod Udah Daftar, Sekarang Ketik .menu Untuk Melihat 
+Fitur Bot Ini.
 `
 	}
 exports.owner = (botname) =>{
-	return` 🙅‍♀️ Command khusus owner ${botname}`
+	return` 🙅‍♀️ Command Khusus Owner ${botname} Blok`
 	}
 exports.admin = (groupName) =>{
-	return`🙅‍♀️ Command khusus admin ${groupName}`
+	return`🙅‍♀️ Command Khusus Admin ${groupName} Blok`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot bukan admin grup`
+	return`⚠️ Bot Bukan Admin Grup Blok`
 	}
 exports.err = () =>{
-	return`⚠️ Fitur ini sedang eror !`
+	return`⚠️ Fitur Ini Sedang Eror !`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command khusus di dalam group`
+	return`🙅‍♀️ Command Khusus Di Dalam Group Bego`
 	}
 
 exports.wait = () =>{
-	return`⏳ Sedang di proses ~`
+	return`⏳ Sedang Di Proses ~`
 	}
 exports.ok = () =>{
-	return` ✅ Oke done ~`
+	return` 🚀 Oke Done Banh ~`
 	}
 exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
@@ -54,15 +54,15 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+╰─ ᝬ _Patuhi Rules Group Ya Tod_  >_<`
       }
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _Balik Lagi Wajib Donasi Awikwok_ >_<`
 }
 exports.menu = (prefix, salam, pushname) =>{
-	return`Hi ${pushname}, selamat ${salam}
+	return`Hi ${pushname} Anj, Selamat ${salam}
 
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
