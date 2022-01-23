@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://zeeoneofc.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+For+Using+Flicks+Bot"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+For+Using+Flicks+Bot+🚀"
             alt="ZeeoneOfc"
         />
     </a>
