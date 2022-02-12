@@ -37,7 +37,7 @@
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
 > git clone https://github.com/ridho17-ind/Flicks-WhatsApp.git
-> cd Haruka
+> cd Flicks-WhatsApp
 > npm install
 > node haruka.js
 ```
