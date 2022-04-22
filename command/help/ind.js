@@ -8,10 +8,10 @@ exports.limitend = (pushname) => {
 	return`Maaf ${pushname} limit hari ini telah habis\nlimit di reset setiap jam 24:00`
 }
 exports.noregis = (pushname) =>{
-	return` 😎 Halo ${pushname} Lu Belum Daftar Tolol. Ketik .daftar Dulu Dong`
+	return` 😎 Halo ${pushname} Lu Belum Daftar. Ketik .daftar Dulu Dong`
 	}
 exports.regis = () =>{
-	return` Lu Udah Daftar Anj 😒`
+	return` Lu Udah Daftar`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -22,24 +22,24 @@ exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 • Serial : ${serialUser}
 • Total User : ${totalUser.length}
 
-Thanks Ye Tod Udah Daftar, Sekarang Ketik .menu Untuk Melihat 
+Thanks Ya Udah Daftar, Sekarang Ketik .menu Untuk Melihat 
 Fitur Bot Ini.
 `
 	}
 exports.owner = (botname) =>{
-	return` 🙅‍♀️ Command Khusus Owner ${botname} Blok`
+	return` 🙅‍♀️ Command Khusus Owner ${botname}`
 	}
 exports.admin = (groupName) =>{
-	return`🙅‍♀️ Command Khusus Admin ${groupName} Blok`
+	return`🙅‍♀️ Command Khusus Admin ${groupName}`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot Bukan Admin Grup Blok`
+	return`⚠️ Bot Bukan Admin Grup`
 	}
 exports.err = () =>{
 	return`⚠️ Fitur Ini Sedang Eror !`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command Khusus Di Dalam Group Bego`
+	return`🙅‍♀️ Command Khusus Di Dalam Group`
 	}
 
 exports.wait = () =>{
@@ -54,7 +54,7 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya Tod_  >_<`
+╰─ ᝬ _Patuhi Rules Group Ya_ >_<`
       }
 exports.leave = () =>{
 	return`

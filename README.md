@@ -2,9 +2,9 @@
 <img src="https://telegra.ph/file/4c06c6456da3625108f6b.jpg" alt="HARUKA BOT" width="200"/>
 
 <p align="center">
-    <a href="https://ridho17-ind.github.io">
+    <a href="https://Kyuraxp.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+For+Using+Flicks+Bot+🚀"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+For+Using+Kyzenn+Bot+🚀"
             alt="Skijo"
         />
     </a>
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ridho17-ind"><img title="Creator" src="https://img.shields.io/badge/Creator-Skyzo-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kyuraxp"><img title="Creator" src="https://img.shields.io/badge/Creator-Kyzenn-red.svg?style=for-the-badge&logo=github"></a>
 
 
 </p>
@@ -23,7 +23,7 @@
 
 **Click Deploy**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Flicks-WhatsApp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kyuraxp/WhatsApp)
 
 ## Heroku Buildpack
 ```bash
@@ -47,10 +47,10 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"Skijo",
-	"ownernumber":"62887435047326",
-	"botname":"Flicks-Bot",
-	"thumbnail":"./settings/Flicks.jpg",
+	"ownername":"Kyzenn",
+	"ownernumber":"6285695269235",
+	"botname":"Kyzenn-Bot",
+	"thumbnail":"./settings/Kyzenn.jpg",
 	"session_name":"./session.json"
 }
 ```
